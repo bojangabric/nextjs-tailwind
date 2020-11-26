@@ -1,4 +1,4 @@
-## Nextjs project template with tailwindcss
+## Nextjs project template with TailwindCSS
 
 ### 🚀 Quick start
 
